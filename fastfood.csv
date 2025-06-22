@@ -1,0 +1,516 @@
+restaurant;item;calories;total_fat;cholesterol;protein;calcium
+Mcdonalds;Artisan Grilled Chicken Sandwich;380;7;95;37;20
+Mcdonalds;Single Bacon Smokehouse Burger;840;45;130;46;20
+Mcdonalds;Double Bacon Smokehouse Burger;1130;67;220;70;50
+Mcdonalds;Grilled Bacon Smokehouse Chicken Sandwich;750;31;155;55;20
+Mcdonalds;Crispy Bacon Smokehouse Chicken Sandwich;920;45;120;46;20
+Mcdonalds;Big Mac;540;28;80;25;15
+Mcdonalds;Cheeseburger;300;12;40;15;10
+Mcdonalds;Classic Chicken Sandwich;510;24;65;25;2
+Mcdonalds;Double Cheeseburger;430;21;85;25;15
+Mcdonalds;Double Quarter Pounder® with Cheese;770;45;175;51;20
+Mcdonalds;Filet-O-Fish®;380;18;40;15;15
+Mcdonalds;Garlic White Cheddar Burger;620;34;95;32;35
+Mcdonalds;Grilled Garlic White Cheddar Chicken Sandwich;530;20;125;42;35
+Mcdonalds;Crispy Garlic White Cheddar Chicken Sandwich;700;34;85;33;35
+Mcdonalds;Hamburger;250;8;30;13;4
+Mcdonalds;Lobster Roll;290;5;65;24;15
+Mcdonalds;Maple Bacon Dijon 1/4 lb Burger;640;36;110;37;15
+Mcdonalds;Grilled Maple Bacon Dijon Chicken Sandwich;580;21;135;48;30
+Mcdonalds;Crispy Maple Bacon Dijon Chicken Sandwich;740;35;95;39;290
+Mcdonalds;McChicken;350;15;40;15;4
+Mcdonalds;McDouble;380;18;70;23;10
+Mcdonalds;McRib;480;22;80;25;6
+Mcdonalds;Pico Guacamole 1/4 lb Burger;580;33;95;29;15
+Mcdonalds;Grilled Pico Guacamole Chicken Sandwich;520;18;115;40;30
+Mcdonalds;Crispy Pico Guacamole Chicken Sandwich;680;32;80;31;30
+Mcdonalds;Premium Buttermilk Crispy Chicken Deluxe Sandwich;570;23;60;28;20
+Mcdonalds;Premium Crispy Chicken Deluxe Sandwich;530;22;45;25;20
+Mcdonalds;Quarter Pounder® with Cheese;530;27;100;31;15
+Mcdonalds;Signature Sriracha Burger;670;35;95;32;30
+Mcdonalds;Grilled Signature Sriracha Chicken Sandwich;560;20;115;41;30
+Mcdonalds;Crispy Signature Sriracha Chicken Sandwich;730;33;80;32;30
+Mcdonalds;Sweet BBQ Bacon 1/4 lb Burger;690;37;110;38;15
+Mcdonalds;Grilled Sweet BBQ Bacon Chicken Sandwich;630;22;135;48;25
+Mcdonalds;Crispy Sweet BBQ Bacon Chicken Sandwich;800;36;95;39;30
+Mcdonalds;3 piece Buttermilk Crispy Chicken Tenders;370;21;70;28;2
+Mcdonalds;4 piece Buttermilk Crispy Chicken Tenders;480;28;95;38;2
+Mcdonalds;6 piece Buttermilk Crispy Chicken Tenders;760;44;145;58;2
+Mcdonalds;10 piece Buttermilk Crispy Chicken Tenders;1210;70;240;94;4
+Mcdonalds;12 piece Buttermilk Crispy Chicken Tenders;1510;88;295;115;6
+Mcdonalds;20 piece Buttermilk Crispy Chicken Tenders;2430;141;475;186;8
+Mcdonalds;4 Piece Chicken McNuggets;180;11;30;10;0
+Mcdonalds;6 Piece Chicken McNuggets;270;16;45;15;0
+Mcdonalds;10 Piece Chicken McNuggets;440;27;75;24;2
+Mcdonalds;20 Piece Chicken McNuggets;890;53;145;49;4
+Mcdonalds;40 piece Chicken McNuggets;1770;107;295;98;6
+Mcdonalds;4 piece Sweet N' Spicy Honey BBQ Glazed Tenders;640;27;105;39;4
+Mcdonalds;6 piece Sweet N' Spicy Honey BBQ Glazed Tenders;960;40;160;58;8
+Mcdonalds;10 piece Sweet N' Spicy Honey BBQ Glazed Tenders;1600;66;265;97;10
+Mcdonalds;Premium Asian Salad w/o Chicken;140;7;0;7;10
+Mcdonalds;Premium Asian Salad w/ Grilled Chicken;270;9;80;31;10
+Mcdonalds;Premium Asian Salad w/ Crispy Chicken;490;28;95;33;15
+Mcdonalds;Premium Bacon Ranch Salad w/o Chicken;190;12;40;14;15
+Mcdonalds;Premium Bacon Ranch Salad w/ Grilled Chicken;320;14;45;42;15
+Mcdonalds;Premium Bacon Ranch Salad w/ Crispy Chicken;490;28;95;33;15
+Mcdonalds;Premium Southwest Salad w/o Chicken;220;10;15;8;20
+Mcdonalds;Premium Southwest Salad w/ Grilled Chicken;350;12;110;37;20
+Mcdonalds;Premium Southwest Salad w/ Crispy Chicken;520;25;75;28;20
+Chick Fil-A;Chargrilled Chicken Club Sandwich;430;16;85;37;25
+Chick Fil-A;Chargrilled Chicken Sandwich;310;6;55;29;10
+Chick Fil-A;Chick-n-Slider;270;11;45;16;2
+Chick Fil-A;1 Piece Chick-n-Strips;120;6;25;11;2
+Chick Fil-A;2 Piece Chick-n-Strips;230;12;55;22;4
+Chick Fil-A;3 Piece Chick-n-Strips;350;17;70;28;6
+Chick Fil-A;4 piece Chick-n-Strips;470;23;90;37;8
+Chick Fil-A;Chicken Deluxe;500;23;75;31;20
+Chick Fil-A;4 piece Chicken Nuggets;130;6;40;14;2
+Chick Fil-A;6 piece Chicken Nuggets;190;9;55;21;2
+Chick Fil-A;8 piece Chicken Nuggets;260;12;70;28;4
+Chick Fil-A;12 piece Chicken Nuggets;390;18;115;41;4
+Chick Fil-A;30 piece Chicken Nuggets;970;46;285;103;10
+Chick Fil-A;Chicken Salad Sandwich;490;19;80;28;15
+Chick Fil-A;Chicken Sandwich;440;19;60;28;15
+Chick Fil-A;4 Piece Grilled Chicken Nuggets;70;2;35;13;0
+Chick Fil-A;6 Piece Grilled Chicken Nuggets;110;3;50;19;0
+Chick Fil-A;8 piece Grilled Chicken Nuggets;140;4;70;25;2
+Chick Fil-A;12 Piece Grilled Chicken Nuggets;210;5;100;38;2
+Chick Fil-A;Spicy Grilled Chicken Sub Sandwich;430;12;85;33;25
+Chick Fil-A;Regular Grilled Chicken Sub Sandwich;450;13;75;34;25
+Chick Fil-A;Smokehouse BBQ Bacon Sandwich;500;18;95;33;20
+Chick Fil-A;Spicy Chicken Sandwich;450;19;60;29;15
+Chick Fil-A;Spicy Deluxe;540;25;80;34;30
+Chick Fil-A;Chargrilled Chicken Cool Wrap;350;14;60;37;35
+Chick Fil-A;Chicken Enchiladas Meal Kit;860;47;100;39;NA
+Chick Fil-A;Chicken Parmesan Meal Kit;720;31;120;48;NA
+Sonic;Hatch Green Chile Cheeseburger;710;43;120;35;30
+Sonic;Jalapeno Burger;640;37;100;31;20
+Sonic;Jr. Burger;340;17;35;15;6
+Sonic;Jr. Chili Cheeseburger;410;24;55;20;15
+Sonic;Jr. Deluxe Burger;380;23;40;15;6
+Sonic;Jr. Deluxe Cheeseburger;450;28;60;19;15
+Sonic;Jr. Double Cheeseburger;600;38;110;31;25
+Sonic;Sonic Bacon Cheeseburger (w/mayo);870;59;140;39;30
+Sonic;Sonic Burger W/ Mustard;640;37;100;31;20
+Sonic;Sonic Burger W/ Ketchup;650;37;100;32;20
+Sonic;Sonic Burger W/ Mayonnaise;740;48;110;31;20
+Sonic;Sonic Cheeseburger W/ Mustard;710;43;120;35;30
+Sonic;Sonic Cheeseburger W/ Ketchup;720;43;120;35;30
+Sonic;Sonic Cheeseburger W/ Mayonnaise;800;54;130;35;30
+Sonic;Super Sonic Bacon Double Cheeseburger (w/mayo);1280;92;260;67;40
+Sonic;Super Sonic Double Cheeseburger W/ Mustard;1120;76;235;63;40
+Sonic;Super Sonic Double Cheeseburger W/ Ketchup;1130;76;235;63;40
+Sonic;Super Sonic Double Cheeseburger W/ Mayo;1220;87;245;63;40
+Sonic;Super Sonic Jalapeno Double Cheeseburger;1120;76;235;63;40
+Sonic;Veggie Burger W/ Ketchup;450;14;10;15;25
+Sonic;Veggie Burger With Mustard;450;14;10;15;27
+Sonic;Veggie Burger W/ Mustard;450;14;10;15;25
+Sonic;Grilled Asiago Caesar Chicken Club Sandwich;610;30;110;40;16
+Sonic;Crispy Asiago Caesar Chicken Club Sandwich;680;39;80;31;16
+Sonic;Grilled Chicken Sandwich;430;20;80;28;10
+Sonic;Crispy Chicken Sandwich;570;33;45;23;10
+Sonic;Chicken Strip Sandwich;450;24;35;19;4
+Sonic;3 Piece Crispy Chicken Tender Dinner;280;14;0;22;NA
+Sonic;5 Piece Crispy Chicken Tender Dinner;470;24;0;37;NA
+Sonic;Deluxe Ultimate Chicken Sandwich;740;39;90;33;15
+Sonic;Buffalo Dunked Ultimate Chicken Sandwich;1000;61;125;23;NA
+Sonic;Garlic Parmesan Dunked Ultimate Chicken Sandwich;1350;100;190;23;NA
+Sonic;Small Jumbo Popcorn Chicken;380;22;45;18;2
+Sonic;Large Jumbo Popcorn Chicken;560;32;65;27;4
+Sonic;Small Spicy Jumbo Popcorn Chicken;350;17;45;21;2
+Sonic;Large Spicy Jumbo Popcorn Chicken;610;30;80;36;3
+Sonic;3 Piece Super Crunch Chicken Strip Dinner;970;46;55;30;13
+Sonic;4 Piece Super Crunch Chicken Strip Dinner;1080;51;75;37;13
+Sonic;5 Piece Super Crunch Chicken Strip Dinner;1190;57;90;44;14
+Sonic;3 Piece Super Crunch Chicken Strips;330;16;55;22;1
+Sonic;4 Piece Super Crunch Chicken Strips;440;21;70;29;1
+Sonic;5 Piece Super Crunch Chicken Strips;550;26;90;36;2
+Sonic;Traditional Ultimate Chicken Sandwich;730;39;90;32;15
+Sonic;Ultimate Chicken Club;100;64;100;39;30
+Sonic;"All Beef All-american Style Dog – 6""";370;18;40;12;8
+Sonic;"All Beef Chicago Dog – 6""";430;20;40;14;10
+Sonic;"All Beef Chili Cheese Coney – 6""";410;26;65;17;20
+Sonic;"All Beef New York Dog – 6""";340;19;40;13;8
+Sonic;"All Beef Regular Hot Dog – 6""";320;18;40;11;8
+Sonic;Cheesy Bacon Pretzel Dog - 6 In.;500;26;50;15;8
+Sonic;Corn Dog;210;11;20;6;4
+Sonic;Footlong Quarter Pound Coney;830;54;85;30;30
+Sonic;The Original Pretzel Dog;320;18;35;11;4
+Arbys;Arby's Melt;330;11;30;18;8
+Arbys;Arby-Q Sandwich;400;10;30;18;10
+Arbys;Beef 'n Cheddar Classic;450;20;50;23;15
+Arbys;Beef 'n Cheddar Mid;630;32;100;39;15
+Arbys;Bourbon BBQ Brisket Sandwich;650;33;105;38;NA
+Arbys;Bourbon BBQ Chicken Sandwich;690;31;90;38;NA
+Arbys;Bourbon BBQ Steak Sandwich;690;31;90;38;NA
+Arbys;Buttermilk Buffalo Chicken Sandwich;540;24;60;29;NA
+Arbys;Buttermilk Chicken Bacon & Swiss;650;31;90;39;NA
+Arbys;Buttermilk Chicken Cordon Bleu Sandwich;690;35;110;41;NA
+Arbys;Buttermilk Crispy Chicken Sandwich;550;26;60;29;NA
+Arbys;Classic French Dip & Swiss/Au Jus;540;23;85;35;15
+Arbys;Classic Roast Beef;360;14;50;23;6
+Arbys;Double Roast Beef;510;24;95;38;6
+Arbys;Fire-Roasted Philly Steak;640;32;105;42;NA
+Arbys;Grand Turkey Club;480;24;65;30;15
+Arbys;Greek Gyro;710;44;75;23;NA
+Arbys;Half Pound Beef 'n Cheddar Sandwich;740;39;130;49;NA
+Arbys;Half Pound French Dip & Swiss;750;36;150;55;NA
+Arbys;Half Pound Roast Beef Sandwich;610;30;130;48;NA
+Arbys;Ham & Swiss Melt;300;9;35;18;15
+Arbys;Loaded Italian Sandwich;680;40;100;32;NA
+Arbys;Pecan Chicken Salad Flatbread;710;46;65;22;NA
+Arbys;Pecan Chicken Salad Sandwich;840;44;75;33;25
+Arbys;2 piece Prime-Cut Chicken Tenders;240;11;30;16;2
+Arbys;3 piece Prime-Cut Chicken Tenders;360;17;45;23;2
+Arbys;5 piece Prime-Cut Chicken Tenders;600;28;75;39;2
+Arbys;Reuben Sandwich;680;31;80;37;35
+Arbys;Roast Beef Gyro;550;29;60;24;10
+Arbys;Roast Turkey & Swiss Sandwich;710;28;65;38;45
+Arbys;Roast Turkey & Swiss Wrap;520;27;65;30;35
+Arbys;Roast Turkey, Ranch & Bacon Sandwich;800;34;80;45;45
+Arbys;Roast Turkey, Ranch & Bacon Wrap;620;34;85;37;30
+Arbys;Smoke Mountain w/ Beef Short Rib;740;35;125;43;NA
+Arbys;Smokehouse Beef Short Rib Sandwich;590;59;75;26;NA
+Arbys;Smokehouse Brisket;600;35;110;33;20
+Arbys;Super Roast Beef;430;17;45;23;8
+Arbys;Three Cheese Steak Sandwich;650;36;115;30;NA
+Arbys;Triple Decker Sandwich;1030;51;155;62;NA
+Arbys;Turkey Avocado Club;730;28;65;41;NA
+Arbys;Turkey Gyro;470;20;45;25;10
+Arbys;Ultimate BLT;980;55;85;43;NA
+Arbys;Buffalo Chicken Slider;290;13;20;12;NA
+Arbys;Chicken Tender 'n Cheese Slider;290;12;25;15;NA
+Arbys;Corned Beef 'n Cheese Slider;220;9;30;14;NA
+Arbys;Ham 'n Cheese Slider;210;8;25;13;NA
+Arbys;Jalapeno Roast Beef 'n Cheese Slider;240;11;30;14;NA
+Arbys;Pizza Slider;300;17;35;13;NA
+Arbys;Roast Beef 'n Cheese Slider;240;11;30;14;NA
+Arbys;Turkey 'n Cheese Slider;200;7;25;14;NA
+Arbys;Chopped Side Salad;70;5;15;5;10
+Arbys;Crispy Chicken Farmhouse Salad;430;24;65;28;25
+Arbys;Greek Gyro Salad;420;37;55;10;NA
+Arbys;Roast Turkey Farmhouse Salad;230;13;55;22;25
+Arbys;Super Greek Salad;720;53;85;22;NA
+Burger King;American Brewhouse King;1550;126;805;134;NA
+Burger King;Bacon & Swiss Sourdough King;1000;65;200;56;NA
+Burger King;Bacon Cheeseburger;330;16;55;18;NA
+Burger King;Bacon Cheeseburger Deluxe;290;14;40;12;NA
+Burger King;Bacon King;1040;48;220;57;NA
+Burger King;Bacon King Jr;730;39;90;32;NA
+Burger King;BBQ Bacon King;1100;75;220;57;NA
+Burger King;Cheeseburger;300;14;45;16;NA
+Burger King;Double Bacon Cheeseburger;520;31;105;31;NA
+Burger King;Double Cheeseburger;450;26;95;26;NA
+Burger King;Double Hamburger;360;18;70;22;NA
+Burger King;Double Quarter Pound King;900;54;210;56;NA
+Burger King;Extra Long Cheeseburger;580;33;85;26;NA
+Burger King;Farmhouse King;1220;80;335;NA;NA
+Burger King;Hamburger;260;10;35;13;NA
+Burger King;Homestyle Cheeseburger;550;27;95;30;NA
+Burger King;Jalapeno King Sandwich;990;65;205;55;NA
+Burger King;Mushroom & Swiss King;940;63;175;49;NA
+Burger King;Rodeo Burger;310;13;25;9;NA
+Burger King;Rodeo King;1250;82;230;60;NA
+Burger King;Sourdough King Single;730;43;125;35;NA
+Burger King;Sourdough King Double;970;61;205;55;NA
+Burger King;Steakhouse King;1100;74;180;50;NA
+Burger King;Bacon & Cheese Whopper;770;48;95;29;NA
+Burger King;DOUBLE WHOPPER w/o Cheese;900;57;140;47;NA
+Burger King;DOUBLE WHOPPER w/ Cheese;990;65;160;52;NA
+Burger King;WHOPPER w/o Cheese;660;40;90;28;NA
+Burger King;WHOPPER w/ Cheese;760;47;100;33;NA
+Burger King;WHOPPER JR. w/o Cheese;340;19;40;14;NA
+Burger King;WHOPPER JR. w/ Cheese;380;23;55;16;NA
+Burger King;Bacon Cheddar Ranch Chicken Salad w/ grilled Chicken & Dressing;590;40;150;42;NA
+Burger King;Bacon Cheddar Ranch Chicken Salad w/ crispy Chicken & Dressing;720;50;120;36;NA
+Burger King;Chicken BLT Salad w/ Grilled Chicken;550;37;115;36;NA
+Burger King;Chicken BLT Salad w/ Crispy Chicken;690;48;100;35;NA
+Burger King;Chicken Caesar Salad w/ Grilled Chicken;530;32;95;35;NA
+Burger King;Chicken Caesar Salad w/ Crispy Chicken;670;43;80;34;NA
+Burger King;Chicken, Apple & Cranberry Salad w/ Grilled Chicken;560;30;90;29;NA
+Burger King;Chicken, Apple & Cranberry Salad w/ Crispy Chicken;700;41;80;28;NA
+Burger King;Garden Grilled Chicken Salad w/ Grilled Chicken, no dressing;320;14;115;36;NA
+Burger King;Garden Grilled Chicken Salad w/ Crispy Chicken, no dressing;450;24;85;29;NA
+Burger King;Side Caesar Salad with dressing;220;20;10;6;NA
+Burger King;Side Garden Salad and Avocado Ranch Dressing;230;21;30;5;NA
+Burger King;Bacon Cheddar Ranch Crispy Chicken Sandwich;830;52;110;34;NA
+Burger King;BBQ Bacon Crispy Chicken Sandwich;440;27;15;7;NA
+Burger King;Big Fish Sandwich;530;27;30;17;NA
+Burger King;BK VEGGIE Burger;410;16;5;22;NA
+Burger King;Chicken Burger;480;25;5;22;NA
+Burger King;Chicken Cordon Bleu Sandwich;730;39;90;32;NA
+Burger King;Chicken Fries;290;17;40;16;NA
+Burger King;4 Piece Chicken Nuggets;190;11;25;10;NA
+Burger King;6 Piece Chicken Nuggets;290;17;40;15;NA
+Burger King;20 Piece Chicken Nuggets;950;55;130;51;NA
+Burger King;Chicken Nuggets (10pc);470;29;50;21;NA
+Burger King;Chicken Parmesan Sandwich;570;25;70;32;NA
+Burger King;Crispy Buffalo Chicken Melt;580;28;70;30;NA
+Burger King;Crispy Chicken Jr.;430;28;30;12;NA
+Burger King;Crispy Chicken Sandwich;670;41;60;23;NA
+Burger King;Grilled Chicken Sandwich;470;19;85;37;NA
+Burger King;Grilled Chili Cheese Dog;330;19;40;14;NA
+Burger King;Grilled Hot Dog;310;16;30;11;NA
+Burger King;Jalapeno Chicken Fries;300;18;40;15;NA
+Burger King;Original Chicken Sandwich;630;39;65;24;NA
+Burger King;Pretzel Chicken Fries;340;21;45;16;NA
+Burger King;Rodeo Crispy Chicken Sandwich;410;17;20;12;NA
+Burger King;Sourdough Chicken Club;840;51;95;32;NA
+Burger King;4 Piece Spicy Chicken Nuggets;210;15;20;8;NA
+Burger King;Spicy Chicken Nuggets;530;37;55;20;NA
+Burger King;Spicy Crispy Chicken Jr.;410;25;35;12;NA
+Burger King;Spicy Crispy Chicken Sandwich;700;42;65;25;NA
+Burger King;Spicy Crispy Jalapeno Chicken Sandwich;760;45;95;32;NA
+Dairy Queen;1/2 lb. FlameThrower® GrillBurger;1000;74;170;46;30
+Dairy Queen;1/2 lb. GrillBurger with Cheese;800;51;135;40;35
+Dairy Queen;1/4 lb. Bacon Cheese GrillBurger;630;37;95;30;25
+Dairy Queen;1/4 lb. GrillBurger with Cheese;540;30;70;23;25
+Dairy Queen;1/4 lb. Mushroom Swiss GrillBurger;570;35;75;24;25
+Dairy Queen;Original Cheeseburger;400;18;65;19;10
+Dairy Queen;Original Double Cheeseburger;630;34;125;34;20
+Dairy Queen;4 Piece Chicken Strip Basket w/ Country Gravy;1030;53;80;35;10
+Dairy Queen;6 Piece Chicken Strip Basket w/ Country Gravy;1260;66;120;49;10
+Dairy Queen;Bacon Cheese Dog;420;26;60;19;NA
+Dairy Queen;Cheese Dog;390;24;50;16;NA
+Dairy Queen;Chili Cheese Dog;380;24;55;16;15
+Dairy Queen;Chili Dog;330;20;40;13;6
+Dairy Queen;Hot Dog;290;17;35;11;6
+Dairy Queen;Relish Dog;350;20;35;13;NA
+Dairy Queen;Barbecue Pork Sandwich;310;9;50;17;4
+Dairy Queen;Breaded Mushrooms;250;9;0;7;2
+Dairy Queen;Regular Cheese Curds;550;45;150;35;100
+Dairy Queen;Large Cheese Curds;1050;75;180;43;NA
+Dairy Queen;Chili Cheese Mega Dog;760;49;100;32;NA
+Dairy Queen;Corn Dog;260;15;20;6;0
+Dairy Queen;Crispy Fish Sandwich;470;22;20;17;6
+Dairy Queen;Deluxe Cheeseburger;400;18;65;20;10
+Dairy Queen;Deluxe Double Cheeseburger;640;34;125;34;20
+Dairy Queen;Deluxe Double Hamburger;540;26;100;29;4
+Dairy Queen;Deluxe Hamburger;350;14;50;17;4
+Dairy Queen;DQ Ultimate® Burger;780;48;150;41;20
+Dairy Queen;Pork Tenderloin Sandwich;580;34;45;19;NA
+Dairy Queen;Steak Finger Basket;910;48;45;23;NA
+Dairy Queen;3 chicken strips Chicken Strips;350;20;60;22;NA
+Dairy Queen;Chicken Bacon Ranch Sandwich;500;20;65;33;NA
+Dairy Queen;Chicken Mozzarella Sandwich;640;25;60;34;NA
+Dairy Queen;Crispy Chicken BLT Salad;520;31;100;37;NA
+Dairy Queen;Crispy Chicken Garden Greens Salad;280;13;40;17;NA
+Dairy Queen;Crispy Chicken Sandwich;600;30;55;24;15
+Dairy Queen;Crispy Chicken Wrap;350;21;35;12;10
+Dairy Queen;Grilled Chicken BLT Salad;380;19;100;42;NA
+Dairy Queen;Grilled Chicken Garden Greens Salad;150;2;40;23;NA
+Dairy Queen;Grilled Chicken Sandwich;360;15;50;25;6
+Dairy Queen;Grilled Chicken Wrap;280;15;30;15;10
+Dairy Queen;Side Salad;20;0;0;1;15
+Dairy Queen;Turkey BLT Sandwich;550;26;60;30;NA
+Subway;"6"" B.L.T.";320;9;20;15;30
+Subway;Footlong B.L.T.;640;18;40;30;60
+Subway;"6"" BBQ Rib Sandwich";430;18;50;19;30
+Subway;Footlong BBQ Rib Sandwich;860;36;100;38;60
+Subway;"6"" Big Hot Pastrami";580;31;85;29;40
+Subway;Footlong Big Hot Pastrami;1160;62;170;58;80
+Subway;"6"" Big Philly Cheesesteak";500;17;85;38;50
+Subway;Footlong Big Philly Cheesesteak;1000;34;170;76;100
+Subway;Kids Mini Sub Black Forest Ham;180;3;10;10;20
+Subway;"6"" Black Forest Ham";290;5;20;18;30
+Subway;Footlong Black Forest Ham;580;10;40;36;60
+Subway;"6"" Carved Turkey";330;5;45;25;30
+Subway;Footlong Carved Turkey;660;10;90;50;60
+Subway;"6"" Carved Turkey & Bacon w/ Cheese";570;26;70;33;40
+Subway;Footlong Carved Turkey & Bacon w/ Cheese;1140;52;140;66;80
+Subway;"6"" Chicken & Bacon Ranch Melt";570;28;95;35;50
+Subway;Footlong Chicken & Bacon Ranch Melt;1140;56;190;70;100
+Subway;"6"" Chicken Pizziola Melt";460;16;80;32;45
+Subway;Footlong Chicken Pizziola Melt;920;32;160;64;90
+Subway;"6"" Cold Cut Combo";370;13;50;18;35
+Subway;Footlong Cold Cut Combo;740;26;100;36;70
+Subway;"6"" Corned Beef Reuben";470;15;85;39;20
+Subway;Footlong Corned Beef Reuben;940;30;170;78;40
+Subway;"6"" Italian B.M.T.";410;16;45;20;30
+Subway;Footlong Italian B.M.T.;820;32;90;40;60
+Subway;"6"" Italian Hero";550;29;75;26;40
+Subway;Footlong Italian Hero;1100;58;150;52;80
+Subway;"6"" Meatball Marinara";480;18;30;21;35
+Subway;Footlong Meatball Marinara;960;36;60;42;70
+Subway;"6"" Oven Roasted Chicken";320;5;25;23;30
+Subway;Footlong Oven Roasted Chicken;640;10;50;46;60
+Subway;Kids Mini Sub Roast Beef;200;3;25;14;20
+Subway;"6"" Roast Beef";320;5;40;24;30
+Subway;Footlong Roast Beef;640;10;80;48;60
+Subway;"6"" Rotisserie Style Chicken";350;6;50;29;30
+Subway;Footlong Rotisserie Style Chicken;700;12;100;58;60
+Subway;"6"" Spicy Italian";480;24;50;20;30
+Subway;Footlong Spicy Italian;960;48;100;40;60
+Subway;"6"" Steak and Cheese";380;10;50;26;40
+Subway;Footlong Steak and Cheese;760;20;100;52;80
+Subway;"6"" Subway Club";310;5;40;23;30
+Subway;Footlong Subway Club;620;10;80;46;60
+Subway;"6"" Subway Melt (includes cheese)";370;11;45;23;40
+Subway;Footlong Subway Melt (includes cheese);740;22;90;46;80
+Subway;"6"" Subway Seafood Sensation";420;19;20;13;35
+Subway;Footlong Subway Seafood Sensation;840;38;40;26;70
+Subway;"6"" Sweet Onion Chicken Teriyaki";380;5;50;26;35
+Subway;Footlong Sweet Onion Chicken Teriyaki;760;10;100;52;70
+Subway;"6"" Tuna";470;24;30;20;30
+Subway;Footlong Tuna;940;48;60;40;60
+Subway;"6"" Turkey & Bacon Avocado";390;13;30;22;30
+Subway;Footlong Turkey & Bacon Avocado;780;26;60;44;60
+Subway;Kids Mini Sub Turkey Breast;180;2;10;10;20
+Subway;"6"" Turkey Breast";280;4;20;18;30
+Subway;Footlong Turkey Breast;560;8;40;36;60
+Subway;"6"" Turkey Breast & Ham";280;4;20;18;30
+Subway;Footlong Turkey Breast & Ham;560;8;40;36;60
+Subway;"6"" Turkey Italiano Melt (with Provolone)";490;24;50;24;45
+Subway;Footlong Turkey Italiano Melt (with Provolone);980;48;100;48;90
+Subway;Kids Mini Sub Veggie Delite;150;2;0;6;20
+Subway;"6"" Veggie Delite";230;3;0;8;30
+Subway;Footlong Veggie Delite;460;6;0;16;60
+Subway;"6"" Veggie Patty";390;7;10;23;35
+Subway;Footlong Veggie Patty;780;14;20;46;70
+Subway;Autumn Carved Turkey Salad;300;9;60;25;15
+Subway;B.L.T. Salad;150;8;20;10;6
+Subway;Big Hot Pastrami Melt Salad;400;29;85;23;10
+Subway;Big Philly Cheesesteak Salad;330;16;85;32;25
+Subway;Black Forest Ham Salad;110;3;20;12;4
+Subway;Buffalo Chicken Salad (with Ranch dressing);360;26;60;20;8
+Subway;Carved Turkey & Bacon w/ Cheese Salad;280;12;65;28;15
+Subway;Carved Turkey Salad;150;4;45;19;6
+Subway;Chicken & Bacon Ranch Melt Salad (includes Ranch dressing);510;38;100;30;30
+Subway;Cold Cut Combo Salad;180;11;45;12;10
+Subway;Double Chicken Salad;220;5;100;36;8
+Subway;Italian B.M.T.® Salad;230;15;45;14;6
+Subway;Italian Hero Salad;230;15;45;14;4
+Subway;Meatball Marinara Salad;310;17;30;16;10
+Subway;Oven Roasted Chicken Salad;140;3;50;19;8
+Subway;Roast Beef Salad;140;4;40;18;4
+Subway;Spicy Italian Salad;310;23;50;15;8
+Subway;Steak & Cheese Salad;210;8;50;20;15
+Subway;Subway Club Salad;140;4;40;17;6
+Subway;Subway Melt® Salad;200;10;45;18;15
+Subway;Sweet Onion Chicken Teriyaki Salad;200;3;50;20;6
+Subway;Tuna Salad;310;24;40;15;6
+Subway;Turkey Breast & Ham Salad;110;3;25;12;6
+Subway;Turkey Breast Salad;110;2;20;12;6
+Subway;Veggie Delite Salad;50;1;0;3;4
+Subway;Chipotle Southwest Steak & Cheese Wrap;760;37;100;43;30
+Subway;Rotisserie-Style Chicken Caesar Wrap;730;34;135;55;45
+Subway;Turkey, Bacon & Guacamole Wrap;810;42;75;43;30
+Subway;Cheese & Veggies Pizza;740;25;50;36;60
+Subway;Cheese Pizza;680;22;40;32;45
+Subway;Pepperoni Pizza;790;32;60;38;60
+Subway;Sausage Pizza;820;34;70;39;60
+Taco Bell;1/2 lb.* Cheesy Potato Burrito;540;26;45;19;NA
+Taco Bell;1/2 lb.* Combo Burrito;460;18;45;21;NA
+Taco Bell;7-Layer Burrito;510;19;20;16;NA
+Taco Bell;Bean Burrito;370;11;5;13;NA
+Taco Bell;Beefy 5-Layer Burrito;550;22;35;19;NA
+Taco Bell;Beefy Fritos® Burrito;440;18;20;13;NA
+Taco Bell;Black Bean Burrito;410;12;10;14;NA
+Taco Bell;Burrito Supreme® – Beef;420;16;35;16;NA
+Taco Bell;Burrito Supreme® - Chicken;390;12;40;19;NA
+Taco Bell;Burrito Supreme® - Steak;390;13;30;17;NA
+Taco Bell;Cantina Power Burrito - Chicken;760;27;60;32;NA
+Taco Bell;Cantina Power Burrito - Steak;780;28;50;33;NA
+Taco Bell;Cantina Power Burrito - Veggie;740;26;10;20;NA
+Taco Bell;Cheesy Bean and Rice Burrito;420;17;0;11;NA
+Taco Bell;Chili Cheese Burrito;380;17;35;16;NA
+Taco Bell;Chicken Crunchy Cheesy Core Burrito;610;24;55;25;35
+Taco Bell;Steak Crunchy Cheesy Core Burrito;610;24;50;25;40
+Taco Bell;Beef Crunchy Cheesy Core Burrito;630;26;45;22;35
+Taco Bell;Loaded Taco Burrito;550;29;50;20;20
+Taco Bell;Chicken Quesarito;620;30;60;24;NA
+Taco Bell;Steak Quesarito;630;31;65;25;NA
+Taco Bell;Beef Quesarito;650;34;60;22;NA
+Taco Bell;Shredded Chicken Burrito;400;18;30;16;NA
+Taco Bell;Smothered Burrito - Beef;710;35;75;28;NA
+Taco Bell;Smothered Burrito - Shredded Chicken;650;28;70;34;NA
+Taco Bell;Smothered Burrito - Steak;670;29;80;35;NA
+Taco Bell;Chicken Spicy Cheesy Core Burrito;540;20;55;24;35
+Taco Bell;Steak Spicy Cheesy Core Burrito;550;21;50;24;35
+Taco Bell;Beef Spicy Cheesy Core Burrito;570;23;45;22;35
+Taco Bell;Triple Melt Burrito;410;16;30;15;20
+Taco Bell;XXL Grilled Stuft Burrito - Beef;880;42;75;31;NA
+Taco Bell;XXL Grilled Stuft Burrito - Chicken;830;35;85;37;NA
+Taco Bell;XXL Grilled Stuft Burrito - Steak;820;36;70;33;NA
+Taco Bell;Chicken Soft Taco;170;6;30;12;NA
+Taco Bell;Cool Ranch® Doritos® Double Decker® Taco;320;14;25;13;NA
+Taco Bell;Cool Ranch® Doritos® Locos Taco;160;10;25;8;NA
+Taco Bell;Cool Ranch® Doritos® Locos Taco Supreme;200;12;35;9;NA
+Taco Bell;Crunchy Taco;170;10;25;8;NA
+Taco Bell;Crunchy Taco Supreme®;200;12;35;9;NA
+Taco Bell;Double Decker® Taco;320;14;25;13;NA
+Taco Bell;DOUBLE DECKER® Taco Supreme®;350;16;35;14;NA
+Taco Bell;Spicy Sweet Double Stacked Taco;340;18;35;12;15
+Taco Bell;Cool Ranch Habanero Double Stacked Taco;350;20;40;13;20
+Taco Bell;Nacho Crunch Double Stacked Taco;380;19;35;13;20
+Taco Bell;Fiery Doritos® Double Decker® Taco;320;13;25;14;NA
+Taco Bell;Fiery Doritos® Locos Taco;170;10;25;8;NA
+Taco Bell;Fiery Doritos® Locos Taco Supreme;200;12;30;9;NA
+Taco Bell;Grilled Steak Soft Taco;250;14;30;11;NA
+Taco Bell;Nacho Cheese Doritos® Double Decker® Taco;320;13;25;14;NA
+Taco Bell;Nacho Cheese Doritos® Locos Tacos;170;9;25;8;NA
+Taco Bell;Nacho Cheese Doritos® Locos Tacos Supreme;200;11;35;9;NA
+Taco Bell;Soft Taco Supreme® – Beef;230;11;35;10;NA
+Taco Bell;Soft Taco-Beef;200;9;25;10;NA
+Taco Bell;Spicy Potato Soft Taco;250;13;10;6;NA
+Taco Bell;Chalupa Supreme® - Chicken;340;18;40;16;NA
+Taco Bell;Chalupa Supreme® - Steak;340;18;30;14;NA
+Taco Bell;Chalupa Supreme®–Beef;370;21;30;13;NA
+Taco Bell;Double Chalupa;600;35;50;21;15
+Taco Bell;Wild Naked Chicken Chalupa;420;28;65;19;6
+Taco Bell;Mild Naked Chicken Chalupa;440;30;70;20;6
+Taco Bell;Spicy Double Chalupa;600;35;50;21;15
+Taco Bell;Fresco Bean Burrito;350;9;0;11;NA
+Taco Bell;Fresco Burrito Supreme® – Chicken;340;8;25;17;NA
+Taco Bell;Fresco Burrito Supreme® – Steak;340;9;15;15;NA
+Taco Bell;Fresco Chicken Soft Taco;150;4;25;11;NA
+Taco Bell;Fresco Crunchy Taco;140;8;20;6;NA
+Taco Bell;Fresco Grilled Steak Soft Taco;150;4;15;9;NA
+Taco Bell;Fresco Soft Taco;170;7;20;8;NA
+Taco Bell;Cheesy Gordita Crunch;490;29;55;20;NA
+Taco Bell;Doritos® Cheesy Gordita Crunch - Cool Ranch;490;28;55;20;NA
+Taco Bell;Doritos® Cheesy Gordita Crunch - Fiery;490;28;55;20;NA
+Taco Bell;Doritos® Cheesy Gordita Crunch - Nacho Cheese;490;28;55;20;NA
+Taco Bell;Double Cheesy Gordita Crunch;570;32;70;25;30
+Taco Bell;Gordita Supreme® – Beef;300;14;30;13;NA
+Taco Bell;Gordita Supreme® - Chicken;270;10;40;16;NA
+Taco Bell;Gordita Supreme® - Steak;270;11;30;14;NA
+Taco Bell;Nacho Fries Bellgrande;710;41;30;13;8
+Taco Bell;Nachos BellGrande®;760;39;30;18;NA
+Taco Bell;Nachos Supreme;430;23;30;12;NA
+Taco Bell;Triple Layer Nachos;320;15;0;7;NA
+Taco Bell;Triple Melt Nachos;260;16;30;10;10
+Taco Bell;Beefy Cheddar Crunchwrap Slider;410;19;25;14;NA
+Taco Bell;Beefy Mini Quesadilla;210;12;25;9;NA
+Taco Bell;Beefy Nacho Griller;420;19;20;12;NA
+Taco Bell;BLT Crunchwrap Slider;430;23;20;12;NA
+Taco Bell;Cantina Power Bowl - Chicken;560;22;60;26;NA
+Taco Bell;Cantina Power Bowl - Steak;580;23;50;27;NA
+Taco Bell;Cantina Power Bowl - Veggie;540;21;10;14;NA
+Taco Bell;Cheese Quesadilla;480;27;50;19;NA
+Taco Bell;Cheese Roll-Up;190;9;20;9;NA
+Taco Bell;Chicken Quesadilla;520;28;75;27;NA
+Taco Bell;Chickstar;620;37;50;17;15
+Taco Bell;Chili Cheese Burrito;380;17;35;16;NA
+Taco Bell;Chipotle Crispy Chicken Griller;290;18;25;9;NA
+Taco Bell;Crispy Chicken Quesadilla;650;37;75;26;45
+Taco Bell;Crunchwrap Supreme®;540;21;30;16;NA
+Taco Bell;Double Tostada;270;11;15;12;NA
+Taco Bell;Express Taco Salad w/ Chips;580;29;60;23;NA
+Taco Bell;Loaded Potato Griller;470;22;25;13;NA
+Taco Bell;Mexican Pizza;540;31;40;20;NA
+Taco Bell;MexiMelt®;270;14;40;14;NA
+Taco Bell;Steak Quesalupa;440;23;60;22;35
+Taco Bell;Chicken Quesalupa;440;23;60;22;35
+Taco Bell;Beef Quesalupa;460;26;50;19;35
+Taco Bell;Shredded Chicken Mini Quesadilla;180;8;25;12;NA
+Taco Bell;Spicy Chicken Crunchwrap Slider;400;20;25;15;NA
+Taco Bell;Spicy Tostada;200;10;10;7;NA
+Taco Bell;Stacker;390;18;40;18;30
+Taco Bell;Steak Quesadilla;520;28;65;25;NA
+Taco Bell;Original Triple Double Crunchwrap;700;30;45;23;25
+Taco Bell;Spicy Triple Double Crunchwrap;780;38;50;23;25
+Taco Bell;Express Taco Salad w/ Chips;580;29;60;23;NA
+Taco Bell;Fiesta Taco Salad-Beef;780;42;60;26;NA
+Taco Bell;Fiesta Taco Salad-Chicken;720;35;70;32;NA
+Taco Bell;Fiesta Taco Salad-Steak;720;36;55;28;NA
